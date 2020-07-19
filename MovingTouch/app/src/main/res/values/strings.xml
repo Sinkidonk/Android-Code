@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovingTouch</string>
+    <string name="text_view_text">Move the text view</string>
+</resources>
